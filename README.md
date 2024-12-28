@@ -51,23 +51,28 @@ The project aims to analyze customer growth and revenue trends at SHIELD Insuran
 
 ## 📋 Data Summary
 
+![Screenshot 2024-12-26 155058](https://github.com/user-attachments/assets/0fc147e5-8cb9-4f62-b709-d95dc6dbc5c2)
 
 
 
 ## 🏠 Home Page
 
+![Screenshot 2024-12-28 153258](https://github.com/user-attachments/assets/c73cc84d-18e0-4664-baad-c0a5972ccdfd)
 
 
 ## 📊 Overview Dashboard
 
+![Screenshot 2024-12-28 153354](https://github.com/user-attachments/assets/a64c86b6-f4ad-4e79-a92b-4f52a65e5732)
 
 
 ## 📈 Sales Mode Dashboard
 
+![Screenshot 2024-12-28 153440](https://github.com/user-attachments/assets/d63e09c2-e8e3-41ea-a0ac-ccb858241e6d)
 
 
 ## 🔢 Age Group Dashboard
 
+![Screenshot 2024-12-28 153544](https://github.com/user-attachments/assets/3343bea0-064e-4df5-9fe8-610448ea8713)
 
 
 
@@ -99,8 +104,6 @@ The project aims to analyze customer growth and revenue trends at SHIELD Insuran
 
 ## 📎 Links
 
-### 💼 [Linkedin Post]()
+### 💼 [Linkedin Post](https://www.linkedin.com/posts/jitesh-jain-303252181_shield-insurance-project-activity-7278710673621106688-3-5g?utm_source=share&utm_medium=member_desktop)
 
 ### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIxM2Q2M2ItZjc2MC00ZWEyLTlmMmEtZDMzNDgwNDE4MTFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-### 🖥️ [Presentation]()
